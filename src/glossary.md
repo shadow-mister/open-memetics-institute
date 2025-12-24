@@ -67,3 +67,10 @@ _Example 2: an engineer writing a design doc pointing out all the flaws in a pro
 
 - The way we short circuit this is to create a community where we assume ALL bad things happen due to incompetence. 
 - Thus, an actor who is incompetent AND doesn't respond to feedback is considered "bad faith", and must be removed from their position of power, because they will hurt themselves/others
+
+
+**Gorgias Problem** - The structural asymmetry that it is cheaper & faster to generate conviction in beliefs in an agent than to generate understanding (i.e., an epistemology upgrade)
+- It's easier to install a belief or strengthen an existing one without the recipient gaining any ability to reconstruct why it’s true, which makes the influence non-auditable from the inside regardless of the truth of the belief
+- Most persuasion operations do not involve engaging understanding of the audience, and when understanding is critical for the audience to be persuaded, the appearance of understanding will still trump real understanding economically (quoting statistics, and fallacious arguments)
+- This asymmetry is the default engine of dark memetics & epistemic noise; if a network doesn’t explicitly reward auditability & correction, it will drift toward persuasion-by-shortcut, bypass normie filters, and accumulate “belief movement” that can’t be cleanly distinguished from truth-tracking
+  
